@@ -1,0 +1,18 @@
+[
+    {
+        "address": "street 12 ",
+        "email": "rahul123@gmail.com",
+        "monthlyIncome": 76543.0,
+        "name": "rahul",
+        "password": "123456",
+        "phoneNumber": 1234567890
+    },
+    {
+        "address": "sd",
+        "email": "abc@gmail.com",
+        "monthlyIncome": 3444.0,
+        "name": "Bhavya",
+        "password": "abcdefg",
+        "phoneNumber": 3523131253
+    }
+]
